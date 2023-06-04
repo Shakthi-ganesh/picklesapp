@@ -41,15 +41,17 @@ const Footer = () => {
             <div className="footer-social">
               <h3>Follow Us</h3>
               <div className="footer-social--icons">
+                
                 <div>
-                  <FaDiscord className="icons" />
-                </div>
-                <div>
-                  <FaInstagram className="icons" />
+                <a
+                    href="https://www.youtube.com/watch?v=ZE6dQqUfttg"
+                    target="_blank">
+                    <FaInstagram className="icons" />
+                  </a>
                 </div>
                 <div>
                   <a
-                    href="https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA"
+                    href="https://www.youtube.com/watch?v=ZE6dQqUfttg"
                     target="_blank">
                     <FaYoutube className="icons" />
                   </a>
@@ -66,7 +68,7 @@ const Footer = () => {
             <hr />
             <div className="container grid grid-two-column ">
               <p>
-                @{new Date().getFullYear()} ThapaTechnical. All Rights Reserved
+                @{new Date().getFullYear()} ShakthiPickles. All Rights Reserved
               </p>
               <div>
                 <p>PRIVACY POLICY</p>
