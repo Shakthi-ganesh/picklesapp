@@ -13,9 +13,7 @@ const HeroSection = ({ myData }) => {
             <p className="intro-data">Welcome to </p>
             <h1> {name} </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-              atque temporibus veniam doloribus libero ad error omnis voluptates
-              animi! Suscipit sapiente.
+            What would we do without the superheroes of our kitchen, the jars and jars of pickles?! Pickles, especially the ones from Shakthi Pickles, have the ability to turn any meal into a spice festival. At Shakthi Pickles, we have an unimaginable number of pickles for you to choose from in both vegetarian and non vegetarian options.
             </p>
             {/* <NavLink> */}
               <Button>show now</Button>

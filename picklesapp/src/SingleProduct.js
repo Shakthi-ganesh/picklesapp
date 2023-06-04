@@ -73,17 +73,17 @@ const SingleProduct = () => {
 
               <div className="product-warranty-data">
                 <TbReplace className="warranty-icon" />
-                <p>30 Days Replacement</p>
+                <p>Genuine </p>
               </div>
 
               <div className="product-warranty-data">
                 <TbTruckDelivery className="warranty-icon" />
-                <p>Thapa Delivered </p>
+                <p>Delivered </p>
               </div>
 
               <div className="product-warranty-data">
                 <MdSecurity className="warranty-icon" />
-                <p>2 Year Warranty </p>
+                <p>Trusted </p>
               </div>
             </div>
 
@@ -95,9 +95,7 @@ const SingleProduct = () => {
               <p>
                 ID : <span> {id} </span>
               </p>
-              <p>
-                Brand :<span> {company} </span>
-              </p>
+            
             </div>
             <hr />
             {stock > 0 && <AddToCart product={singleProduct} />}
