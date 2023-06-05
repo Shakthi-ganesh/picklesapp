@@ -1,11 +1,11 @@
 const cartReducer = (state, action) => {
   if (action.type === "ADD_TO_CART") {
     let { id, color, amount, product } = action.payload;
-
+    
     // tackle the existing product
 
     let existingProduct = state.cart.find(
-      (curItem) => curItem.id === id + color
+      (curItem) => curItem.id === id
     );
 
     if (existingProduct) {
@@ -105,34 +105,34 @@ const cartReducer = (state, action) => {
     };
   }
 
-  // if (action.type === "CART_TOTAL_ITEM") {
-  //   let updatedItemVal = state.cart.reduce((initialVal, curElem) => {
-  //     let { amount } = curElem;
+  if (action.type === "CART_TOTAL_ITEM") {
+    let updatedItemVal = state.cart.reduce((initialVal, curElem) => {
+      let { amount } = curElem;
 
-  //     initialVal = initialVal + amount;
-  //     return initialVal;
-  //   }, 0);
+      initialVal = initialVal + amount;
+      return initialVal;
+    }, 0);
 
-  //   return {
-  //     ...state,
-  //     total_item: updatedItemVal,
-  //   };
-  // }
+    return {
+      ...state,
+      total_item: updatedItemVal,
+    };
+  }
 
-  // if (action.type === "CART_TOTAL_PRICE") {
-  //   let total_price = state.cart.reduce((initialVal, curElem) => {
-  //     let { price, amount } = curElem;
+  if (action.type === "CART_TOTAL_PRICE") {
+    let total_price = state.cart.reduce((initialVal, curElem) => {
+      let { price, amount } = curElem;
 
-  //     initialVal = initialVal + price * amount;
+      initialVal = initialVal + price * amount;
 
-  //     return initialVal;
-  //   }, 0);
+      return initialVal;
+    }, 0);
 
-  //   return {
-  //     ...state,
-  //     total_price,
-  //   };
-  // }
+    return {
+      ...state,
+      total_price,
+    };
+  }
 
   if (action.type === "CART_ITEM_PRICE_TOTAL") {
     if(state.cart)
@@ -167,4 +167,13 @@ const cartReducer = (state, action) => {
 
 export default cartReducer;
 
-// https://stackoverflow.com/questions/63117470/how-to-return-two-values-in-reduce#:~:text=You%20cannot%20return%20two%20values%20in%20reduce%20.
+// // https://stackoverflow.com/questions/63117470/how-to-return-two-values-in-reduce#:~:text=You%20cannot%20return%20two%20values%20in%20reduce%20.
+
+// const cartReducer=(state,action)=>{
+
+//   if(action.type==="ADD_TO_CART")
+//   {
+//     let {id,color,amount,product}=action.payload;
+//     console.log(product);
+//   }
+// }
