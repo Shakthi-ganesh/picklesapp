@@ -12,7 +12,7 @@ import Star from "./components/Star";
 import AddToCart from "./components/AddToCart";
 
 
-const API = "https://api.pujakaitem.com/api/products";
+const API = "https://shakthi-ganesh.github.io/pickledata/daata.json";
 
 const SingleProduct = () => {
   const { getSingleProduct, isSingleLoading, singleProduct } =

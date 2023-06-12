@@ -1,0 +1,230 @@
+[
+    {
+      "id": "Amla pickle",
+      "name": "Amla pickle",
+      "company": "veg pickle",
+      "price": 350,
+      "colors": [
+        "#ff0000",
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/avakaya-pachadi.jpg",
+      "description": "Amla pickle is a tangy and spicy condiment made from Indian gooseberries. It is prepared by marinating amla pieces in a mixture of spices and letting it mature for a few days. It adds zesty flavor to Indian meals.",
+      "category": "veg pickles"
+     
+    },
+    {
+      "id": "Avakaya pickle",
+      "name": "Avakaya pickle",
+      "company": "veg pickle",
+      "price": 350,
+      "colors": [
+        "#000",
+        "#22D3EF"
+      ],
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/avakaya-pachadi.jpg",
+      "description": "Avakaya pickle is a popular South Indian pickle made from raw mangoes. It is prepared by mixing diced mangoes with a blend of spices like mustard seeds, red chili powder, fenugreek, and salt. The mixture is then left to ferment for a few days to develop its unique tangy and spicy flavors. Avakaya pickle is known for its bold taste and is a delightful accompaniment to rice, roti, or any South Indian meal.",
+      "category": "veg pickle",
+      "featured":true
+    },
+    {
+      "id": "Brinjal",
+      "name": "Brinjal",
+      "company": "veg pickle",
+      "price": 360,
+      "colors": [
+        "#22D3EF",
+        "#CDD0D0"
+      ],
+      "image": "https://www.bigfattummy.com/wp-content/uploads/2017/11/Sweet-Brinjal-Pickle-13-1200x900.jpg",
+      "description": "Brinjal pickle, also known as eggplant pickle, is a flavorful condiment made from brinjals (eggplants). The pickle is prepared by chopping the brinjals into small pieces and marinating them in a mixture of spices such as mustard seeds, fenugreek, turmeric, red chili powder, and salt. The mixture is then allowed to sit for a period of time, allowing the flavors to meld and infuse into the brinjal pieces. Brinjal pickle offers a delightful combination of tanginess, spiciness, and the distinct flavor of eggplants. It is commonly enjoyed as a side dish with rice, roti, or breads in various Indian cuisines.",
+      "category": "veg pickle"
+    },
+    {
+      "id": "Gongura",
+      "name": "Gongura",
+      "company": "veg pickle",
+      "price": 320,
+      "colors": [
+        "#000",
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/06/gongura-pachadi-gongura-chutney.jpg",
+      "description": "Gongura pickle is a popular and tangy pickle made from gongura leaves, also known as sorrel leaves. Gongura is a leafy green vegetable commonly used in South Indian and Andhra Pradesh cuisine. The leaves are pickled by blending them with a mixture of spices such as red chili powder, mustard seeds, fenugreek seeds, turmeric, and salt. The resulting pickle has a unique and sour taste, with a slightly tart and tangy flavor. Gongura pickle is typically enjoyed with rice, roti, or as a condiment with various dishes. It is known for its distinctive flavor profile and is a favorite among pickle enthusiasts.",
+      "category": "veg pickle"
+     
+    },
+    {
+      "id": "Tomato pickle",
+      "name": "Tomato pickle",
+      "company": "veg pickle",
+      "price": 320,
+      "colors": [
+        "#000",
+        "#CDD0D0"
+      ],
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Pickles/Spicy_Tomato_Pickle_Recipe_South_Indian_Thakkali_Thokku.jpg",
+      "description": "Tomato pickle is a delicious condiment made from ripe tomatoes. The tomatoes are chopped and cooked with a blend of spices like mustard seeds, fenugreek, red chili powder, turmeric, and salt. The mixture is simmered until the tomatoes break down and the flavors meld together. Tomato pickle offers a tangy and slightly spicy taste that complements a variety of dishes. It can be enjoyed with rice, roti, or as a spread on sandwiches and wraps. Tomato pickle is a versatile and popular pickle option appreciated for its vibrant flavor and versatility in culinary applications.",
+      "category": "veg pickle",
+      "shipping": true
+    },
+    {
+      "id": "Lime pickle",
+      "name": "Lime pickle",
+      "company": "veg pickle",
+      "price": 300,
+      "colors": [
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Pickles/Naranga_achaar_recipe_new_400.jpg",
+      "description": "Lime pickle is a zesty and tangy condiment made from limes. The limes are sliced or quartered and mixed with a combination of spices such as mustard seeds, fenugreek, turmeric, red chili powder, and salt. The mixture is then allowed to ferment for a few days to develop its bold and flavorful taste. Lime pickle adds a burst of tanginess and a hint of spiciness to various dishes. It is commonly served as a side condiment with Indian meals, including rice, curries, and snacks. Lime pickle is cherished for its refreshing citrus flavor and its ability to elevate the taste of a wide range of dishes.",
+      "category": "veg pickle",
+      "shipping": true
+    },
+    {
+      "id": "Prawns pickle",
+      "name": "Prawns pickle",
+      "company": "Non-veg pickle",
+      "price": 1500,
+      "colors": [
+        "#CDD0D0",
+        "#000"
+      ],
+      "image": "https://img-global.cpcdn.com/recipes/971bdca770b7c726/1200x630cq70/photo.jpg",
+      "description": "Prawn pickle is a delectable condiment made from prawns, also known as shrimp. The prawns are cooked with a blend of aromatic spices such as cumin, coriander, turmeric, red chili powder, and salt. The mixture is then preserved in oil or vinegar, allowing the flavors to meld and intensify over time. Prawn pickle offers a combination of savory, spicy, and tangy flavors, with the added richness and texture of the prawns. It is typically enjoyed as a side dish or accompaniment to rice, breads, or as a flavor-packed addition to sandwiches and wraps. Prawn pickle is a delightful treat for seafood lovers, adding a burst of flavor to various culinary preparations.",
+      "shipping": true,
+       "featured":true
+    },
+    {
+      "id": "Chicken pickle",
+      "name": "Chicken pickle",
+      "price": 1400,
+      "company": "Non-veg pickle",
+      "colors": [
+        "#000",
+        "#CDD0D0"
+      ],
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/02/chicken-pickle.jpg",
+      "description": "Chicken pickle is a savory and spicy condiment made from chicken. Tender pieces of chicken are marinated with a blend of aromatic spices such as cumin, coriander, turmeric, red chili powder, ginger, garlic, and salt. The marinated chicken is then cooked until tender and flavorful. Chicken pickle offers a delightful combination of robust and tangy flavors, with the succulent taste of chicken. It can be enjoyed as a side dish or accompaniment to rice, roti, or as a flavor enhancer in sandwiches and wraps. Chicken pickle is a popular choice among meat enthusiasts, adding a burst of savory goodness to various culinary creations.",
+      "featured": true,
+      "shipping": true
+    },
+    {
+      "id": "Mutton pickle",
+      "name": "Mutton pickle",
+      "price": 1700,
+      "company": "Non-veg pickle",
+      "colors": [
+        "#000000"
+      ],
+      "image": "https://nativeflavors.in/wp-content/uploads/2021/04/Mutton-pickle-1024x1024-1.jpg",
+      "description": "Mutton pickle is a flavorful and spicy condiment made from mutton, which is mature sheep meat. Tender pieces of mutton are marinated with a mixture of aromatic spices such as cumin, coriander, turmeric, red chili powder, ginger, garlic, and salt. The marinated mutton is then cooked until tender and the flavors meld together. Mutton pickle offers a rich and robust taste, with the distinctive flavor of mutton shining through. It is commonly enjoyed as a side dish with rice, roti, or as a flavorful addition to wraps and sandwiches. Mutton pickle is a favorite among meat lovers for its intense flavor and the ability to add a punch of spiciness to various dishes.",
+      "category": "Non-veg pickle",
+      "shipping": true,
+      "featured":true
+    },
+    {
+      "id": "Chicken boneless",
+      "name": "Chicken boneless",
+      "company": "Non-veg pickle",
+      "price": 1800,
+      "colors": [
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://nativeflavors.in/wp-content/uploads/2021/04/Mutton-pickle-1024x1024-1.jpg",
+      "description": "Chicken pickle is a savory and spicy condiment made from chicken. Tender pieces of chicken are marinated with a blend of aromatic spices such as cumin, coriander, turmeric, red chili powder, ginger, garlic, and salt. The marinated chicken is then cooked until tender and flavorful. Chicken pickle offers a delightful combination of robust and tangy flavors, with the succulent taste of chicken. It can be enjoyed as a side dish or accompaniment to rice, roti, or as a flavor enhancer in sandwiches and wraps. Chicken pickle is a popular choice among meat enthusiasts, adding a burst of savory goodness to various culinary creations.",
+      "category": "Non-veg pickle"
+    },
+    {
+      "id": "Kothimeera powder",
+      "name": "Kothimeera powder",
+      "price": 500,
+      "company": "Powders",
+      "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+      ],
+      "image": "https://t4.ftcdn.net/jpg/00/68/52/93/360_F_68529366_F7BAg1uP47LyQYO14R0jaXowxXbDsRvx.jpg",
+      "description": "Kothimeera powder is a versatile spice blend made from dried coriander leaves. It adds a refreshing and vibrant touch to various dishes with its unique flavor and aroma. It can be sprinkled over rice, mixed with yogurt for chutneys, or used as a seasoning for curries and stir-fries. Kothimeera powder not only enhances the taste of dishes but also offers potential health benefits due to the presence of antioxidants and nutrients in coriander leaves. Its versatility and aromatic profile make it a popular ingredient in Indian cuisine.",
+      "category": "Powders"
+    },
+    {
+      "id": "Pachadi karam powder",
+      "name": "Pachadi karam powder",
+      "price": 550,
+      "company": "Powders",
+      "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+      ],
+      "image": "https://ik.imagekit.io/rythumitra/wp-content/uploads/2022/04/Red-Chilly-copy.png",
+      "description": "pachadi karam powder is a versatile spice blend made from dried coriander leaves. It adds a refreshing and vibrant touch to various dishes with its unique flavor and aroma. It can be sprinkled over rice, mixed with yogurt for chutneys, or used as a seasoning for curries and stir-fries. Kothimeera powder not only enhances the taste of dishes but also offers potential health benefits due to the presence of antioxidants and nutrients in coriander leaves. Its versatility and aromatic profile make it a popular ingredient in Indian cuisine.",
+      "category": "Powder",
+      "featured": true
+    },
+    {
+      "id": "Garlic powder",
+      "name": "Garlic powder",
+      "price": 700,
+      "company": "Powders",
+      "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+      ],
+      "image": "https://bandarmithai.in/cdn/shop/products/veluli_karam.jpg?v=1617384340",
+      "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+      "category": "Powders"
+    },
+    {
+      "id": "Idli karam",
+      "name": "Idli karam",
+      "price": 600,
+      "company": "Powder",
+      "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+      ],
+      "image": "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Idli karam, also known as idli podi or gunpowder, is a popular South Indian spice blend typically served with idli, dosa, and other South Indian breakfast dishes. It is made by grinding together roasted lentils (such as urad dal), dried red chilies, sesame seeds, and other spices. The resulting mixture is coarse and has a slightly granular texture. Idli karam adds a burst of flavor and heat to the mild and fluffy idlis, enhancing their taste. It can be sprinkled on top of the idlis along with ghee or oil for a delicious and spicy kick. Idli karam is a beloved condiment that adds an extra layer of flavor to South Indian breakfasts.",
+      "category": "Powder"
+     
+    },
+    {
+      "id": "Murukul",
+      "name": "Murukul",
+      "price": 250,
+      "company": "Snacks",
+      "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+      ],
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/murukku-recipe.jpg",
+      "description": "Murukulu, also known as murukku or chakli, is a popular South Indian snack made from a combination of rice flour, gram flour (besan), and various spices. The dough is typically prepared by mixing the flours with ingredients such as cumin seeds, sesame seeds, chili powder, and salt. The dough is then shaped using a special murukku press, creating intricate spiral or coil patterns, and deep-fried until golden and crispy. Murukulu are enjoyed as a crunchy and savory snack, perfect for tea-time or festive occasions. They are known for their addictive texture and delicious blend of flavors. Murukulu showcases the rich culinary heritage of South India and is cherished by people of all ages.",
+      "category": "watch",
+      "featured": true
+    },
+    {
+      "id": "Ragi poosa",
+      "name": "Ragi poosa",
+      "price": 500,
+      "company": "Snacks",
+      "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+      ],
+      "image": "https://i.ytimg.com/vi/KdwSU5ppb50/mqdefault.jpg",
+      "description": "Ragi poosa, also known as  chakli, is a popular South Indian snack made from a combination of rice flour, gram flour (besan), and various spices. The dough is typically prepared by mixing the flours with ingredients such as cumin seeds, sesame seeds, chili powder, and salt. The dough is then shaped using a special murukku press, creating intricate spiral or coil patterns, and deep-fried until golden and crispy. Murukulu are enjoyed as a crunchy and savory snack, perfect for tea-time or festive occasions. They are known for their addictive texture and delicious blend of flavors. Murukulu showcases the rich culinary heritage of South India and is cherished by people of all ages.",
+      "category": "watch",
+      "featured": true
+    }
+  ]
